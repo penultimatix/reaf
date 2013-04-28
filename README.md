@@ -1,4 +1,4 @@
-reef
+![REAF](https://github.com/penultimatix/reaf/raw/master/logo-028.2Kj2.png)
 ====
 
 [![Gem Version](https://badge.fury.io/rb/reef.png)](http://rubygems.org/gems/reef)
