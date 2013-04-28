@@ -1,4 +1,4 @@
 reef
 ====
 
-Celluloid's Reel, expanded into a framework foundation module.
+Celluloid's [Reel](/celluloid/reel), expanded into a framework foundation module.
