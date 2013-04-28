@@ -9,7 +9,7 @@ Comparable functionality would be Rack's middleware for its behavior toward Reel
 and Sinatra / Octarine / Padrino for the HTTP DSL aspect, without those libraries,
 and using the ultra-fast Reel server.
 
-Intended functionalities to start with:
+**Intended functionalities to start with:**
 
 * Code Reloading in development environments
 * Session handling
