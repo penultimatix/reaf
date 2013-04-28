@@ -3,7 +3,6 @@ reef
 
 [![Gem Version](https://badge.fury.io/rb/reef.png)](http://rubygems.org/gems/reef)
 [![Build Status](https://secure.travis-ci.org/penultimatix/reef.png?branch=master)](http://travis-ci.org/penultimatix/reef)
-[![Code Climate](https://codeclimate.com/github/penultimatix/reef.png)](https://codeclimate.com/github/penultimatix/reef)
 
 
 Celluloid's [Reel](http://github.com/celluloid/reel), expanded into a framework foundation module.
