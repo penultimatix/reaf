@@ -6,11 +6,11 @@
 
 **Realtime Experience Augmentation Framework**
 
-Celluloid's [Reel](http://github.com/celluloid/reel), expanded into a framework foundation module.
+Celluloid's **[Reel](http://github.com/celluloid/reel)**, expanded into a framework foundation module.
 
 This experimental module ought to both extend Reel, and your own framework or application. It is intended to be a base
 for diverse addons to Reel, both over and under the HTTP Server: working with Requests and/or the Responses within Reel.
-Out-of-the-box it covers HTTP+S and WS+S (Web Sockets) natively, using Celluloid's amazing [Celluloid::IO](http://github.com/celluloid/celluloid-io) with non-blocking IO. But **REAF** is not only an infrastructure for "the web" though it is most commonly used for that. It masters realtime interactions in general, regardless of protocol and whether used as server, client, or both.
+Out-of-the-box it covers HTTP+S and WS+S (Web Sockets) natively, using Celluloid's amazing **[Celluloid::IO](http://github.com/celluloid/celluloid-io)** with non-blocking IO. But **REAF** is not only an infrastructure for "the web" though it is most commonly used for that. It masters and opens up realtime interactions in general, regardless of protocol and whether used as server, client, or both.
 
 Comparable functionality would be Rack's middleware convention, for making Reel as an extendible handler; also Sinatra / Octarine / Padrino for the HTTP DSL aspect, making development extremly simple, without those libraries; and portage systems in general, offering modular components easily added and removed.
 
