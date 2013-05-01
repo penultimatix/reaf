@@ -4,7 +4,7 @@
 [![Gem Version](https://badge.fury.io/rb/reef.png)](http://rubygems.org/gems/reef)
 [![Build Status](https://secure.travis-ci.org/penultimatix/reef.png?branch=master)](http://travis-ci.org/penultimatix/reef)
 
-**Realtime Experience Augmentation Framework**
+**Realtime Experience Asynchronous Framework**
 
 Celluloid's **[Reel](http://github.com/celluloid/reel)**, expanded into a framework foundation module.
 
